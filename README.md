@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hello, I'm a person who wants to be a competent developer.
 
 <!--
 **Specialstr/Specialstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
